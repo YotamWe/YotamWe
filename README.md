@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **yweber.03@gmail.com**
 
-- 📄 Know about my experiences [Cv_WEBER_Yotam_Stage.pdf](Cv.pdf)
-- 
+- 📄 Know about my experiences [CV_Alternance_Yotam_WEBER.pdf](Cv.pdf)
+- 🌐 Mon E-Portefolio : https://yotamwe.github.io/E-Portofolio/
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
