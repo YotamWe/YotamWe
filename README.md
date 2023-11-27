@@ -26,6 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YotamWe&theme=transparent" alt="YotamWe" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yotamWe&theme=transparentk)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yotamWe&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yotamWe&theme=transparent)
 
