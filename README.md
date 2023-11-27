@@ -22,9 +22,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YotamWe&show_icons=true&locale=fr&layout=compact&theme=transparent" alt="YotamWe" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=YotamWe&show_icons=true&locale=fr&theme=transparent" alt="YotamWe" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YotamWe&show_icons=true&locale=fr&theme=transparent" alt="YotamWe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YotamWe&theme=transparent" alt="YotamWe" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YotamWe&theme=transparent" alt="YotamWe" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yotamWe&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yotamWe&theme=transparent)
