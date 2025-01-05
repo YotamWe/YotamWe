@@ -13,8 +13,8 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yotam-weber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yotam-weber" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yotam_wbr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samy.sam22/" height="30" width="40" /></a>
-<a href="https://discord.gg/volleybald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samy722" height="30" width="40" /></a>
+<!--<a href="https://www.instagram.com/yotam_wbr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samy.sam22/" height="30" width="40" /></a>
+<a href="https://discord.gg/volleybald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samy722" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=YotamWe&show_icons=true&locale=fr&theme=transparent" alt="YotamWe" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YotamWe&theme=transparent" alt="YotamWe" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YotamWe&theme=transparent" alt="YotamWe" /></p>-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yotamWe&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yotamWe&theme=transparent)
