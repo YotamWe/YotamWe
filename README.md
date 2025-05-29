@@ -17,11 +17,8 @@
 <a href="https://discord.gg/volleybald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samy722" height="30" width="40" /></a>-->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left"> 
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
-  </a> 
   <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a>
@@ -49,6 +46,18 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
+</p>
+<h3 align="left">Frameworks :</h3>
+<p align="left"> 
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> 
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
+  </a> 
+  <a href="https://dotnet.microsoft.com/fr-fr/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YotamWe&show_icons=true&locale=fr&layout=compact&theme=transparent" alt="YotamWe" /></p>
